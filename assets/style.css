@@ -1,0 +1,26 @@
+h4{
+    color :black;
+    font-size: 18px;
+}
+
+h6{
+    color :black;
+    font-size: medium;
+}
+
+p{
+    color :black;
+    font-size: medium;
+}
+label{
+    color :black;
+}
+
+.radio-estagio .form-check-label {
+    color: black !important;
+}
+
+.radio-estagio input[type="radio"] {
+    accent-color: black;
+}
+
